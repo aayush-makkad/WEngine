@@ -1,0 +1,42 @@
+[2018-06-25 22:32:07.127] [exthost1] [info] extension host started
+[2018-06-25 22:32:07.275] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:07.275] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/emmet/out/extension
+[2018-06-25 22:32:12.220] [exthost1] [info] extension host started
+[2018-06-25 22:32:12.246] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:12.246] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/emmet/out/extension
+[2018-06-25 22:32:14.635] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:14.635] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/git/out/main
+[2018-06-25 22:32:14.634] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:14.635] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/git/out/main
+[2018-06-25 22:32:17.769] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:17.769] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/merge-conflict/out/extension
+[2018-06-25 22:32:18.521] [exthost1] [info] ExtensionService#_doActivateExtension eppz.eppz-code {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:18.521] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.vscode/extensions/eppz.eppz-code-1.2.41/out/src/main
+[2018-06-25 22:32:17.769] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:17.769] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/merge-conflict/out/extension
+[2018-06-25 22:32:18.521] [exthost1] [info] ExtensionService#_doActivateExtension eppz.eppz-code {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:18.521] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.vscode/extensions/eppz.eppz-code-1.2.41/out/src/main
+[2018-06-25 22:32:39.321] [exthost1] [info] eager extensions activated
+[2018-06-25 22:32:39.321] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-25 22:32:39.321] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/configuration-editing/out/extension
+[2018-06-25 22:32:39.533] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-25 22:32:39.533] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/json/client/out/jsonMain
+[2018-06-25 22:32:39.342] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-25 22:32:39.342] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/configuration-editing/out/extension
+[2018-06-25 22:32:39.533] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-25 22:32:39.533] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/json/client/out/jsonMain
+[2018-06-25 22:32:43.131] [exthost1] [info] eager extensions activated
+[2018-06-25 22:32:56.578] [exthost1] [info] extension host started
+[2018-06-25 22:32:56.606] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:56.606] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/emmet/out/extension
+[2018-06-25 22:32:56.699] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:56.699] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/git/out/main
+[2018-06-25 22:32:56.773] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:56.773] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/merge-conflict/out/extension
+[2018-06-25 22:32:56.785] [exthost1] [info] ExtensionService#_doActivateExtension eppz.eppz-code {"startup":true,"activationEvent":"*"}
+[2018-06-25 22:32:56.785] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.vscode/extensions/eppz.eppz-code-1.2.41/out/src/main
+[2018-06-25 22:32:57.064] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-25 22:32:57.064] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/configuration-editing/out/extension
+[2018-06-25 22:32:57.075] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-06-25 22:32:57.075] [exthost1] [info] ExtensionService#loadCommonJSModule /home/aayush/.codemix/engine/resources/app/extensions/json/client/out/jsonMain
+[2018-06-25 22:32:57.598] [exthost1] [info] eager extensions activated
